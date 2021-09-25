@@ -5,10 +5,6 @@
  -  👂 I say random things on facebook @pal2097 and [medium](https://medium.com/@pal2097) some time.
  -  I give speechs sometimes. The ppt publish on [SlideShare](https://www.slideshare.net/ssuserb645bc)
  -  Usually, I took the notes on [HackMd](https://hackmd.io/@41MKMGSpR_K11_wgmtcRgw) when I study.
- 
-![image](https://user-images.githubusercontent.com/20264622/108589092-a5920c00-7397-11eb-898d-e16f12fdb669.png)
-
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=spyua&theme=algolia&show_icons=true)
 
